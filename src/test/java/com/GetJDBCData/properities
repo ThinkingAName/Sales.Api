@@ -1,0 +1,5 @@
+driverClass=com.microsoft.sqlserver.jdbc.SQLServerDriver
+# URL = "jdbc:sqlserver://localhost:1433;DatabaseName=People";
+url=jdbc:sqlserver://192.168.1.211,3388;DatabaseName=DB
+username=cardata
+password=internet.xajx.0601

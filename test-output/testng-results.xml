@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="889" started-at="2018-04-12T10:50:27Z" finished-at="2018-04-12T10:50:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="889" started-at="2018-04-12T10:50:27Z" finished-at="2018-04-12T10:50:28Z">
+      <class name="AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit">
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="456" started-at="2018-04-12T10:50:27Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"00341d62-c944-449a-a651-a7df018482f6","Date":"2018-04","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="68" started-at="2018-04-12T10:50:27Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"00341d62-c944-449a-a651-a7df018482f6","Date":"2018-03","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="17" started-at="2018-04-12T10:50:27Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"00341d62-c944-449a-a651-a7df018482f6","Date":"2018-02","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="15" started-at="2018-04-12T10:50:28Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"00341d62-c944-449a-a651-a7df018482f6","Date":"2018-01","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="11" started-at="2018-04-12T10:50:28Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"8e557a05-36bc-4615-a12b-a55201427921","Date":"2018-04","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="33" started-at="2018-04-12T10:50:28Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"8e557a05-36bc-4615-a12b-a55201427921","Date":"2018-03","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="15" started-at="2018-04-12T10:50:28Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"8e557a05-36bc-4615-a12b-a55201427921","Date":"2018-02","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="13" started-at="2018-04-12T10:50:28Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"8e557a05-36bc-4615-a12b-a55201427921","Date":"2018-01","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="11" started-at="2018-04-12T10:50:28Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"8AB58758-97F9-44D0-9BDE-A5290008757B","Date":"2018-04","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="12" started-at="2018-04-12T10:50:28Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"8AB58758-97F9-44D0-9BDE-A5290008757B","Date":"2018-03","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="11" started-at="2018-04-12T10:50:28Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"8AB58758-97F9-44D0-9BDE-A5290008757B","Date":"2018-02","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+        <test-method status="PASS" signature="getParameterFromJson(java.lang.String)[pri:0, instance:AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit@49993335]" name="getParameterFromJson" duration-ms="13" started-at="2018-04-12T10:50:28Z" data-provider="MyDataProvider" finished-at="2018-04-12T10:50:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"EmpId":"8AB58758-97F9-44D0-9BDE-A5290008757B","Date":"2018-01","Type":"0","PageIndex":1,"PageSize":1000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameterFromJson -->
+      </class> <!-- AutoTest.MeiKeMeiChe.Sales.Api.Test_Statistics_GetRevokeShopDeposit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
